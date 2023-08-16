@@ -2,6 +2,6 @@
 
 # Executive Summary
 
-XYZ Company has engaged with Liatrio to assist with their plans to modernize their product suite and architecture in the public cloud.
+XYZ Company has engaged with Liatrio to assist with their plans to modernize their on-premises product suite and architecture and move it to the public cloud.
 
 *more TBD*
